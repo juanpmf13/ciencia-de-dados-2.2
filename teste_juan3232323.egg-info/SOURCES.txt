@@ -1,0 +1,13 @@
+README.md
+setup.py
+calcular/__init__.py
+calcular/module2_name/__init__.py
+calcular/module2_name/file1_name.py
+calcular/module2_name/file2_name.py
+calcular/prossessing/__init__.py
+calcular/prossessing/calculadora.py
+calcular/prossessing/file2_name.py
+teste_juan3232323.egg-info/PKG-INFO
+teste_juan3232323.egg-info/SOURCES.txt
+teste_juan3232323.egg-info/dependency_links.txt
+teste_juan3232323.egg-info/top_level.txt
